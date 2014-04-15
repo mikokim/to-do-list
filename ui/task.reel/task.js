@@ -1,5 +1,5 @@
 /**
- * @module //task.reel
+ * @module ui/task.reel
  * @requires montage/ui/component
  */
 var Component = require("montage/ui/component").Component;
